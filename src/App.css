@@ -16,9 +16,9 @@ input{
   border-radius: 0;
   display: inline-block;
   text-align: center;
-  font-size: 36px;
-  height: 68px;
-  width: 68px;
+  font-size: 28px;
+  height: 64px;
+  width: 64px;
 }
 
 input:focus {
