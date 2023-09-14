@@ -17,8 +17,8 @@ input{
   display: inline-block;
   text-align: center;
   font-size: 48px;
-  height: 56px;
-  width: 56px;
+  height: 72px;
+  width: 72px;
 }
 
 input:focus {
